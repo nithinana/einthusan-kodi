@@ -1,4 +1,4 @@
-# EinTamil Kodi Repository [[https://eintamil.github.io/]](https://eintamil.github.io/)
+# EinTamil Kodi Repository
 
 #### Enable Installation of add-ons from unknown sources:
 * Go to "System Settings" > "System" > "Add-ons"
@@ -32,10 +32,3 @@
 * Right Click "EinTamil Kodi Repository"
 * Click "Check for updates"
 * This should also auto-update the video add-ons installed from this repository
-
-#### For bugs, enhancements, or other requests [create an issue](https://github.com/eintamil/repository.eintamil/issues)
-
-### :-)
-
----
-Credits: https://github.com/reasonsrepo/
