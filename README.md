@@ -8,7 +8,7 @@
 #### Steps to add source:
 * Go to "System Settings" > "File Manager" > "Add Source"
 * Click "\<None>"
-* Type "https://eintamil.github.io/"
+* Type "https://nithinana.github.io/einthusan-kodi/"
 * Enter "EinTamil" as name for this media source
 * Click "OK"
 
